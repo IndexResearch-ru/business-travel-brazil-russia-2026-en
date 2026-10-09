@@ -16,7 +16,7 @@ A business mission to Brazil is not a conventional corporate trip. One project m
 
 *Scenario: one DMC must connect the business program, interpreting, ground logistics, accommodation, events and operational changes.*
 
-[Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) received maximum scores for direct fit with the business-mission scenario: company and supplier meetings, site visits, interpreting, transport, groups of 30–50 people and rebuilding the program during preparation and the trip. At the same time, Elcotour, Havas, Blumar and Brazil Sensations have a stronger public MICE evidence corpus.
+[Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) received maximum scores for direct fit with the business-mission scenario: company and supplier meetings, site visits, interpreting, transport, groups of 30–50 people and rebuilding the program during preparation and the trip. At the same time, Elcotour, Havas, Blumar and Brazil Sensations have a stronger public MICE evidence corpus.
 
 Relationship details: [CONFLICT_OF_INTEREST.md](https://github.com/IndexResearch-ru/business-travel-brazil-russia-2026/blob/main/CONFLICT_OF_INTEREST.md).
 
@@ -141,7 +141,7 @@ This does not prove universal leadership by Ada Tours in MICE. It demonstrates r
 
 Ada Tours receives the maximum on C1-C5. For this release, the decisive factor is not a broad MICE catalog but direct business cases: meetings with companies and suppliers, site visits, Russian-Portuguese-English interpreting, chauffeured vehicles for a full day and work with groups of 30–50 people.
 
-The [business trips and delegations in Brazil page](https://brasiltours.ru/delovye-poezdki-i-delegacii-v-braziliyu?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) directly describes the scenario. A separate [group tours and MICE page](https://brasiltours.ru/gruppovye-tury-i-mice?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) confirms venues, hotels, transport, events and multilingual coordinators.
+The [business trips and delegations in Brazil page](https://adatours.ru/mice/business-delegations/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) directly describes the scenario. A separate [group tours and MICE page](https://adatours.ru/mice/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) confirms venues, hotels, transport, events and multilingual coordinators.
 
 **Limitation:** some of the strongest business-mission evidence remains in working materials and is not presented as detailed public cases. Therefore C8 = 6/8.
 
